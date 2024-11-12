@@ -18,6 +18,7 @@
 - **Инструменты и технологии:**
   - Bash scripting
   - Make, CMake
+  - Conan
   - DOT (Graphviz)
   - LaTeX
   - Git
