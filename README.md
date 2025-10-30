@@ -24,6 +24,7 @@
   - LaTeX
   - Typst
   - Git
+  - uv
 
 ## Мои проекты
 
