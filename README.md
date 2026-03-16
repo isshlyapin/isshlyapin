@@ -1,45 +1,57 @@
-# Привет! Я Илья Шляпин ✌️
+# Hi, I'm Ilya Shlyapin
 
-Я студент 3 курса МФТИ, увлеченный программированием и миром open-source. Вот немного обо мне и моих навыках.
+MIPT student focused on **C/C++**, systems programming, and backend-oriented development.
 
-## Обо мне
+I build projects from scratch and enjoy working close to the metal: parsers, interpreters, multithreaded programs, Linux tooling, and infrastructure-related software.
 
-- 🌐 Увлекаюсь программированием на C/С++ и Python
-- 💻 Уверенный пользователь Linux, мой дистрибутив - CachyOS
-- 🔧 Фанат оконного менеджера Hyprland в качестве Desktop Environment(сейчас использую KDE из-за большей стабильности)
+## Interests
 
-## Мои навыки
+- C / C++
+- Systems programming
+- Backend development
+- Linux ecosystem
+- Open source
 
-- **Языки программирования:**
-  - C/C++
-  - Python
+## Tech Stack
 
-- **Инструменты и технологии:**
-  - Bash, zsh
-  - Make, CMake
-  - Conan
-  - Podman
-  - GitHub Actions
-  - DOT (Graphviz)
-  - LaTeX
-  - Typst
-  - Git
-  - uv
+### Languages
+- C
+- C++
+- Python
 
-## Мои проекты
+### Tools and Environment
+- Linux
+- Bash, zsh
+- Git
+- CMake, Make
+- Conan
+- uv
+- Podman
+- GitHub Actions
 
-### Эмулятор процессора
+### Additional
+- LaTeX
+- Typst
+- Graphviz / DOT
 
-Эмулятор процессора, который я разработал, позволяет имитировать работу простого процессора, выполняя базовые инструкции и операции. Этот проект помог мне глубже понять архитектуру вычислительных систем и принципы работы процессоров.
+## Selected Projects
 
-### Дифференциатор
+### [Processor](https://github.com/isshlyapin/Processor)
+Assembler, disassembler, and bytecode interpreter for a custom instruction set written in C.
 
-Проект по созданию дифференциатора на языке C. Этот инструмент автоматически берет производные от математических выражений. Работа над этим проектом дала мне возможность применить свои знания в области математического анализа и программирования.
+### [Differentiator](https://github.com/isshlyapin/Differentiator)
+Symbolic differentiator in C with recursive-descent parsing and LaTeX output.
 
-## Как связаться со мной
+### [MIPT C++ Course](https://github.com/isshlyapin/MIPT-Cpp-Course)
+A collection of C++ projects, including cache algorithms, data structures, and parallel computing tasks.
 
-- 📫[Email](mailto:shlyapin2005@gmail.com)
-- 📞[ВКонтакте](https://vk.com/semenov1ch)
-- 🌐[Telegram](https://t.me/isshlyapin)
-  
-Буду рад новым контактам и сотрудничеству!
+## About Me
+
+- MIPT, 3rd year student
+- Comfortable in Linux-based development environments
+- Interested in writing reliable, maintainable, and efficient software
+
+## Contacts
+
+- Email: [shlyapin.is@phystech.edu](mailto:shlyapin.is@phystech.edu)
+- Telegram: [@isshlyapin](https://t.me/isshlyapin)
